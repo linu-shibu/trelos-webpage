@@ -74,20 +74,23 @@
     height: 3em;
     width: 40em;
     border-radius: 4px;
+    border: 1px solid lightgray;
 }
 
 .searchbar2{
     height: 3em;
     width: 15em;
     border-radius: 2px;
+    border: 1px solid lightgray;
 }
 
 .searchbtn{
     color: white;
     background-color: #198dd6;
-    height: 3.5em;
+    height: 3.1em;
     width: 10em;
-    border-radius: 2px;
+    border-radius: 1px;
+    border: 1px solid #198dd6;
 }
 
 .btnBar{
