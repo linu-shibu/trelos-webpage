@@ -1,0 +1,117 @@
+.header{
+    background-image: url("C:/Users/linus/Desktop/Data/FullStack/ReactJS Trelos Tech/unravel-reactjs/src/images/bgoverlay.jpg");
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.topHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainTextDiv{
+    margin-left: 2em;
+    margin-right: 30em;
+}
+
+#mainText{
+    color: white;
+}
+
+.sideSec{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: space-evenly;
+}
+
+.sideMenuText{
+    color: white;
+    font-size: 1em;
+}
+
+.btn{
+    color: white;
+    height: 3em;
+    width: 10em;
+    border-radius: 10px;
+    align-self: center;
+}
+
+.btn1{
+    background-color: #198dd6;
+}
+
+.btn2{
+    background-color: blue;
+}
+
+
+#midText1{
+    margin-top: 6em;
+    color: white;
+}
+
+#midText2{
+    margin: 3em;
+    color: white;
+}
+
+.search{
+    margin: 3em;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchbar1{
+    height: 3em;
+    width: 40em;
+    border-radius: 4px;
+}
+
+.searchbar2{
+    height: 3em;
+    width: 15em;
+    border-radius: 2px;
+}
+
+.searchbtn{
+    color: white;
+    background-color: #198dd6;
+    height: 3.5em;
+    width: 10em;
+    border-radius: 2px;
+}
+
+.btnBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    position: relative;
+    top: 4em;
+    border: 2px solid grey;
+}
+
+.barBtn{
+    border-right: 2px solid gray;
+    padding-top: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.moreBtn{
+    border-right: none;
+}
+
+.icon{
+    color: blue;
+    height: 500px;
+}

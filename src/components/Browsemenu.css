@@ -1,0 +1,33 @@
+.browsemenu{
+    background-color: lightgray;
+    padding-top: 2em;
+    padding-bottom: 4em;
+}
+
+.browseSections{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: space-evenly;
+}
+
+.browse{
+    background-color: white;
+    padding: 2em;
+    border-radius: 1em;
+    width: 10%;
+    height: 20%;
+    margin: 1em;
+}
+
+.browseText{
+    color: black;
+    font-size: 1.2em;
+}
+
+.browseImg{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 10em;
+}

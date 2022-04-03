@@ -1,0 +1,95 @@
+.footer{
+    background-color: rgb(240, 239, 239);
+    padding-top: 2em;
+    /* padding-bottom: 2em; */
+}
+
+.topFooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-bottom: 1px solid gray;
+    padding-bottom: 2em;
+}
+
+.sublinks{
+  font-size: 0.8em;
+  color: gray;
+}
+
+.categoryList{
+    font-size: 0.8em;
+  color: gray;
+}
+
+.contactText{
+    font-size: 0.8em;
+  color: gray;
+}
+
+.address{
+    display: flex;
+    align-items: center;
+}
+
+.phone{
+    display: flex;
+    align-items: center;
+}
+
+.email{
+    display: flex;
+    align-items: center;
+}
+
+.contactIcons{
+    color: #198dd6;
+}
+
+.inTouch{
+    margin-bottom: 3em;
+}
+
+#inTouchSearchBar{
+    height: 2em;
+
+}
+
+#inTouchBtn{
+    height:2.5em;
+    color:white;
+    background-color: rgb(0, 115, 255);
+}
+
+.handlesIcons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bottomFooter{
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+}
+
+.bottomContent{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#bottomLeftText{
+    color: gray;
+    font-size: 0.8em;
+}
+
+.bottomText{
+    color: gray;
+    border-right: 2px solid gray;
+    font-size: 0.6em;
+    padding: 1em;
+    align-self: center;
+}
+
+#bottomName{
+    border-right: none;
+}
