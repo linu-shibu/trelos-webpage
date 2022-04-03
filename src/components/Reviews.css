@@ -2,14 +2,6 @@
     padding: 2em;
 }
 
-.reviewMainHead{
-
-}
-
-.reviewTag{
-
-}
-
 .reviewBoxes{
   display: flex;
   justify-content: space-evenly;
